@@ -1,0 +1,8 @@
+[pytest]
+log_cli = 1
+log_cli_level = INFO
+log_cli_format = %(asctime)s %(message)s
+log_cli_date_format = %Y-%m-%d %H:%M:%S
+addopts =
+    --alluredir=allure-results
+    --allure-no-capture
