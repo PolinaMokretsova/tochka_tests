@@ -60,7 +60,7 @@
 ![](media/allreport.png)
 
 Окно с графиками
-![](media/graphsreport.png)
+![](media/graphsreport_ui.png)
 
 [К оглавлению ⬆](#оглавление)
 <a name="видео"></a>
