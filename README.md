@@ -47,7 +47,7 @@
 
 <a name="report"></a>
 # [Отчет](https://jenkins.autotests.cloud/job/tochka_tests/allure/) о выполнении тестов
-![](media/allurereport.png)
+![](media/allurereport_ui.png)
 
 Каждый тест, независимо от результата, состоит из:
 - начальных параметров,
